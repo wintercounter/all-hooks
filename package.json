@@ -1,0 +1,24 @@
+{
+  "name": "all-hooks",
+  "version": "0.0.1",
+  "description": "A community driven collection of re-exported 3rd party React hooks to have a single place for them.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mhy tsc && mhy eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wintercounter/all-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "use"
+  ],
+  "author": "Victor Vincent <wintercounter@gmal.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wintercounter/all-hooks/issues"
+  },
+  "homepage": "https://github.com/wintercounter/all-hooks#readme"
+}
