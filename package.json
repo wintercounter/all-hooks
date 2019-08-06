@@ -1,10 +1,11 @@
 {
   "name": "all-hooks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A community driven collection of re-exported 3rd party React hooks to have a single place for them.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "mhy tsc && mhy eslint"
+    "test": "mhy tsc && mhy eslint",
+    "config": "mhy config typescript && mhy config eslint prettier webpack"
   },
   "repository": {
     "type": "git",
